@@ -1,0 +1,45 @@
+.products-head{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+}
+.productr-head-2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+.hide-filter{
+    padding-left: 30px;
+}
+.nav-bar{
+    width: 300px;
+    height: Hug (846px)px;
+    top: 652px;
+    left: 96px;
+    gap: 24px;
+    opacity: 0px;
+    padding-left: 30px;
+}
+.filter-item{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.fil-head{
+    font-family: Simplon Norm;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21.6px;
+    text-align: left;
+
+}
+.fill-all{
+    font-family: Simplon Norm;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.6px;
+    text-align: left;
+
+}
